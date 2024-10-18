@@ -25,7 +25,7 @@ Mas enfim, o foco em si do desabafo creio que muitos se veem travados em algo, o
 
 Dito isto, bora começar!
 
-
+#
 
 
 # Plano de Estudo de Fundamentos para Desenvolvimento de Software
